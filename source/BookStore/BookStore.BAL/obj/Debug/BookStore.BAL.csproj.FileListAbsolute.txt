@@ -1,0 +1,15 @@
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.BAL.dll.config
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.BAL.dll
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.BAL.pdb
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.Model.dll
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.Service.dll
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.Model.pdb
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.Service.pdb
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\BookStore.Service.dll.config
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\obj\Debug\BookStore.BAL.csproj.AssemblyReference.cache
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\obj\Debug\BookStore.BAL.csproj.CoreCompileInputs.cache
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\obj\Debug\BookStore.BAL.csproj.CopyComplete
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\obj\Debug\BookStore.BAL.dll
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.BAL\obj\Debug\BookStore.BAL.pdb

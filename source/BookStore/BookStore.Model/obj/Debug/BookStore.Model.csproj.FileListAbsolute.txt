@@ -1,0 +1,6 @@
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.Model\bin\Debug\BookStore.Model.dll
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.Model\bin\Debug\BookStore.Model.pdb
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.Model\obj\Debug\BookStore.Model.csproj.AssemblyReference.cache
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.Model\obj\Debug\BookStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.Model\obj\Debug\BookStore.Model.dll
+C:\Users\ankita.srivastava06\source\repos\BookStore\BookStore.Model\obj\Debug\BookStore.Model.pdb
